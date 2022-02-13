@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/rock_music"
+            android:icon="@drawable/ic_baseline_library_music_24"
+            android:title="@string/rock" />
+
+        <item
+            android:id="@+id/classic_music"
+            android:icon="@drawable/ic_baseline_music_video_24"
+            android:title="@string/classic" />
+
+        <item
+            android:id="@+id/pop_music"
+            android:icon="@drawable/ic_baseline_queue_music_24"
+            android:title="Pop" />
+
+</menu>
